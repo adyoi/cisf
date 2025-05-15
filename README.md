@@ -6,11 +6,12 @@ This project now Opensource, 15 Mei 2025
 
 ## Prologue
 
-Project ini bertujuan untuk membantu UKM dalam memahami kepatuhan dasar dalam dunia keamanan cyber, ada 5 fondasi dalam kerangka kerja ini yaitu Informasi, Organisasi, Perawatan, Pemeliharaan dan Perlindungan
+Project ini bertujuan untuk membantu UKM dalam memahami kepatuhan dasar dalam dunia keamanan cyber, ada 5 fondasi dalam kerangka kerja ini yaitu Informasi, Organisasi, Perawatan, Pemeliharaan dan Perlindungan.
 
 ## Information
 
-From CVE (need verification)
+From Advisories
+- CVE/CWE/CVSS
 
 From News
 - New Products
@@ -20,22 +21,7 @@ From News
 
 From CTI
 - Attacking Info
-
-From Zero Day (Race Conditions)
-
-- Attacker - Attacking
-
-  Success Conditions : Breachs, Beaconing,
-  
-  Failed Conditions : Detection and Response
-  
-- Pentester - Pentesting
-
-  Success Conditions : BugBounty
-  
-- Patcher - Patching
-
-  Success Conditions : Release Update
+- ZeroDay
 
 ## Organization
 
@@ -44,13 +30,13 @@ Business Logic
 Application Logic
 
 IT/Co Department
-- Company Data
-- Data Regulation
-  - GDPR
-  - Country ID : UUD PDP
+- Data Regulation<br>
+  eg. UUD PDP (ID), GDPR,
+- Human Resources<br>
+  eg. Competition, Certification, 
   
 IT/Co Management<br>
-eg. ISO, CIS, NIST,
+eg. ISO 27001, CIS, NIST,
 
 IT Development<br>
 by IT/Vendor
@@ -66,12 +52,8 @@ by IT/Vendor<br>
 eg. Mikrotik, Cisco,
 
 IT Server<br>
-by IT/Vendor
-- SysAdmin
-  
-Human Resources
-- Competition
-- Certification
+by IT/Vendor<br>
+eg. SysAdmin
 
 Offices
 - Email Services<br>
@@ -100,11 +82,12 @@ Backup
 
 System
 - OS<br>
-  VM<br>
+  eg. Windows Server,  Ubuntu Server,
+- VM<br>
   eg. KVM
   
 - Orchestration<br>
-  eg. Kubernetez
+  eg. Kubernetes
   
  - Container<br>
   eg. Docker
@@ -113,8 +96,8 @@ System
   Api, Frameworks
   
 - Server
-  - Dedicated Server
   - Virtual Private Server
+  - Dedicated Server
   - Hosting
   - Paas
   
@@ -135,8 +118,8 @@ System
 
 - OT
   - SCADA
-  - PLC
   - DCS
+  - PLC
   - IoT
 
 ## Protection
