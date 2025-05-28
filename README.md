@@ -25,22 +25,27 @@ From CTI
 
 ## Organization
 
-Business Logic
+Business Logic<br>
+eg. Risk Management
 
-Application Logic
+Application Logic<br>
+eg. Workflow
 
 IT/Co Department
 - Data Regulation<br>
   eg. UUD PDP (ID), GDPR,
 - Human Resources<br>
-  eg. Competition, Certification, 
+  * Competition<br>
+    eg. Co/Vendor BugBounty Programs
+  * Certification<br>
+    eg. CEH, 
   
 IT/Co Management<br>
 eg. ISO 27001, CIS, NIST,
 
 IT Development<br>
 by IT/Vendor
-- Access
+- Authorization
 - Databases
 
 IT Security<br>
@@ -74,6 +79,8 @@ Backup
   - Encrypted Backup
   
 - Update
+  - Firmware
+ 
 - Upgrade
 - Restoration
 - Configuration
@@ -104,8 +111,9 @@ System
 - Networking
   - Static/Dedicated Ip
   - Shared/Dynamic Ip
-  - Router Firewall
   - Switch Managable
+  - Router Firewall
+  - VPN
 
 - Development
   - CI/CD
@@ -113,7 +121,9 @@ System
   - PenTesting
 
 - Ai
-  - Ai-Driven  
+  - Ai-Driven
+  - Ai-Agent<br>
+    eg. 
   - MCP
 
 - OT
