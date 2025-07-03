@@ -123,7 +123,7 @@ System
 - Ai
   - Ai-Driven
   - Ai-Agent<br>
-    eg. 
+    eg. Gemini, Copilot, Grok, 
   - MCP
 
 - OT
