@@ -31,7 +31,13 @@ eg. Risk Management
 Application Logic<br>
 eg. Workflow
 
-IT/Co Department
+Supply chain Management<br>
+eg. SCM
+
+Customer Relationship Management<br>
+eg. CRM
+
+Corporation Department
 - Data Regulation<br>
   eg. UUD PDP (ID), GDPR,
 - Human Resources<br>
@@ -40,7 +46,7 @@ IT/Co Department
   * Certification<br>
     eg. CEH, 
   
-IT/Co Management<br>
+Corporation Management<br>
 eg. ISO 27001, CIS, NIST,
 
 IT Development<br>
@@ -88,8 +94,10 @@ Backup
 ## Sustenance
 
 System
+
 - OS<br>
   eg. Windows Server,  Ubuntu Server,
+  
 - VM<br>
   eg. KVM
   
@@ -126,9 +134,11 @@ System
     eg. Gemini, Copilot, Grok, 
   - MCP
 
+Machine
+
 - OT
+  - ICS / DCS
   - SCADA
-  - DCS
   - PLC
   - IoT
 
