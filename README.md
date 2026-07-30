@@ -16,8 +16,8 @@ From Advisories
 From News
 - New Products
 - Incident Reports
-- Platform Update/Patch
-- Vulnerable Bugs/Exploit
+- Platform Update & Patch
+- Vulnerable Bugs & Exploit
 
 From CTI
 - Attacking Info
@@ -29,7 +29,7 @@ Business Logic<br>
 eg. Risk Management
 
 Application Logic<br>
-eg. Workflow
+eg. Workflow, Secure by Design
 
 Supply chain Management<br>
 eg. SCM
@@ -37,33 +37,33 @@ eg. SCM
 Customer Relationship Management<br>
 eg. CRM
 
-Corporation Department
+Corporation or IT Department
 - Data Regulation<br>
   eg. UUD PDP (ID), GDPR,
 - Human Resources<br>
   * Competition<br>
-    eg. Co/Vendor BugBounty Programs
+    eg. Corporation or Vendor BugBounty Programs
   * Certification<br>
     eg. CEH, 
   
-Corporation Management<br>
+Corporation or IT Management<br>
 eg. ISO 27001, CIS, NIST,
 
 IT Development<br>
-by IT/Vendor
+by IT or Vendor
 - Authorization
 - Databases
 
 IT Security<br>
-by IT/Vendor<br>
+by IT or Vendor<br>
 eg. SOC, SOAR,
 
 IT Networking<br>
-by IT/Vendor<br>
+by IT or Vendor<br>
 eg. Mikrotik, Cisco,
 
 IT Server<br>
-by IT/Vendor<br>
+by IT or Vendor<br>
 eg. SysAdmin
 
 Offices
@@ -88,7 +88,11 @@ Backup
   - Firmware
  
 - Upgrade
+
 - Restoration
+  - Devices
+  - Peripheral
+
 - Configuration
 
 ## Sustenance
@@ -117,14 +121,14 @@ System
   - Paas
   
 - Networking
-  - Static/Dedicated Ip
-  - Shared/Dynamic Ip
+  - Static or Dedicated Ip
+  - Shared or Dynamic Ip
   - Switch Managable
   - Router Firewall
   - VPN
 
 - Development
-  - CI/CD
+  - CI / CD
   - SDLC
   - PenTesting
 
@@ -145,7 +149,7 @@ Machine
 ## Protection
 
 Endpoint Security<br>
-eg. SIEM, XDR, IPS/IDS
+eg. SIEM, XDR, IPS / IDS
 
 Reverse Proxy<br>
 eg. Cloudflare
